@@ -1,0 +1,32 @@
+﻿body {
+    background-color: #303030;
+}
+
+form {
+    background-color: black;
+    color: white;
+}
+
+h5 {
+    background-color: grey;
+    margin-bottom:0px;
+    color:white;
+}
+
+.form-control {
+    background-color: grey;
+    border-color: grey;
+    color: white;
+}
+
+.form-control::-moz-placeholder {
+        color: white;
+}
+
+.form-control:-ms-input-placeholder {
+        color: white;
+}
+
+.form-control::-webkit-input-placeholder {
+        color: white;
+}
